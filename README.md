@@ -73,7 +73,7 @@ Highest profit generated from Printers and Bookcases, followed by Sarees, Access
 🔗 Project Links
 
 ⬇️ Download Power BI File
-(Contains the uploaded Excel file with raw data and visual layout.)
+<"https://github.com/omkartech-debug/Madhav-Ecommerce-Sales-Dashboard/blob/main/Ski%20Report%20Final.pbit" />
 
 🖼️ Screenshot Commit
 <"https://github.com/omkartech-debug/Madhav-Ecommerce-Sales-Dashboard/blob/main/MADHAV%20ECOMMERCE%20SALES%20DASHBOARD.png" />
